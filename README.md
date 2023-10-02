@@ -22,7 +22,7 @@ The project aims to provide not only valuable insights into wine data but also a
 
 - **Cost vs. Benefit Analysis**: Evaluate the relationship between wine cost and wine quality (points) for wines from Tuscany.
 
-- **Data Export**: Save relevant analysis results into CSV files and graphical visualizations as image files, along with specific insights in a text file..
+- **Data Export**: Save relevant analysis results into CSV files and graphical visualizations as image files, along with specific insights in a text file.
 
 - **Email Notification**: Automate the process of emailing CSV analysis results to a specified recipient.
 
