@@ -3,7 +3,7 @@
 
 ## Open the file named 'Wine Review Analysis.ipynb' to review the code.
 
-## Additionally, you can view the Web App homepage screenshot. Simply click on 'Frontend_Recommender.png' and/or 'Frontend_Recommender_2.png' at the top of the files section.
+## Additionally, you can view the Web App homepage screenshots. Simply click on 'Frontend_Recommender.png' and/or 'Frontend_Recommender_2.png' at the top of the files section.
 
 ## Project Overview
 
