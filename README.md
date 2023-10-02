@@ -1,9 +1,13 @@
 # Wine Reviews Analysis Project
 ## The best wines around the globe.
 
-## Open the file named 'Wine Review Analysis.ipynb' to review the code.
+## Check the code by clicking below:
+- ['Wine Reviews Analysis'](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Wine%20Review%20Analysis.ipynb)
 
-## Additionally, you can view the Web App homepage screenshots. Simply click on 'Frontend_Recommender.png' and/or 'Frontend_Recommender_2.png' at the top of the files section.
+## Additionally, you can view the Web App homepage screenshots by clicking on the links below:
+
+- ['The Italian Wine Recommender' Homepage: Page 1](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender.png): Web App Home page.
+- ['The Italian Wine Recommender' Homepage: Page 2](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender_2.png): Web App Home page.
 
 ## Project Overview
 
