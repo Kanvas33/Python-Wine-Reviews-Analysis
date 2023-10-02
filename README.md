@@ -8,7 +8,7 @@ This project serves as the foundation for a **wine recommender web app** that is
 
 The project aims to provide not only **valuable insights** into wine data but also a practical application that will enhance the **wine tasting and selection** process for users.
 
-## Project Objectives
+### Project Objectives
 
 - **Data Cleaning**: Prepare the dataset for analysis by handling missing values, outliers, and data inconsistencies.
 
