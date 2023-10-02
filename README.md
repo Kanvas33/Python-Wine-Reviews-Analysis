@@ -1,7 +1,7 @@
 # Wine Reviews Analysis Project
 ## The best wines around the globe.
 
-## Check the code by clicking below:
+## Check the code by clicking on the link below:
 - ['Wine Reviews Analysis'](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Wine%20Review%20Analysis.ipynb)
 
 ## Additionally, I am still working on the integration process. However, you can still view the Web App homepage screenshots by clicking on the links below:
