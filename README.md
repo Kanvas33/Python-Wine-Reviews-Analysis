@@ -1,6 +1,10 @@
 # Wine Reviews Analysis Project
 ## The best wines around the globe.
 
+## Open the file named 'Wine Review Analysis.ipynb' to review the code.
+
+## Additionally,you can view the **web app homepage screenshot**, simply click on 'Frontend_Recommender.png' at the top of the files section.
+
 ## Project Overview
 
 This **Python-based** wine reviews analysis project leverages various libraries and techniques to explore and analyze a dataset containing **almost 130,000 rows of wine-related data from around the world**. The project encompasses **data cleaning, exploratory data analysis, geospatial visualization, and also specific analyses focusing on Italian wines**. The **goal** is to gain **valuable insights into wine trends, pricing, geographical distribution**, and use it as the **foundation for an exciting italian wine recommender web app that combines data analysis with NLP(Natural Language Processing)-powered recommendations**
