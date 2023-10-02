@@ -11,7 +11,7 @@ This **Python-based** wine reviews analysis project leverages various libraries 
 
 This project serves as the foundation for a **wine recommender web app** that is **currently under development**. The **backend**, which includes the analysis conducted in this project, **is complete**. Additionally, the **frontend**, designed using **HTML and CSS**, **has been developed**(To view the **web app homepage screenshot**, simply click on 'Frontend_Recommender.png' at the top of the files section). The **ongoing work** involves **integrating** the backend with the frontend to create a seamless user experience for wine enthusiasts looking for **personalized wine recommendations based on NLP(Natural Language Processing)-powered algorithms**. 
 
-The web app project accepts the user input in **english and italian language**, in order to **facilitate the interaction with the user**.
+The web app project is designed to be **user-friendly and inclusive**. It accepts user input in both **English and Italian languages to facilitate interaction with users from various linguistic backgrounds**.
 
 The project aims to provide not only **valuable insights** into wine data but also a practical application that will enhance the **wine tasting and selection** process for users.
 
