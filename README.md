@@ -2,11 +2,11 @@
 
 ## Project Overview
 
-This Python-based wine reviews analysis project leverages various libraries and techniques to explore and analyze a dataset containing almost 130,000 rows of wine-related data from around the world. The project encompasses data cleaning, exploratory data analysis, geospatial visualization, and also specific analyses focusing on Italian wines. The goal is to gain valuable insights into wine trends, pricing, geographical distribution, and use it as the foundation for an exciting wine recommender web app that combines data analysis with NLP-powered recommendations
+This **Python-based** wine reviews analysis project leverages various libraries and techniques to explore and analyze a dataset containing **almost 130,000 rows of wine-related data from around the world**. The project encompasses **data cleaning, exploratory data analysis, geospatial visualization, and also specific analyses focusing on Italian wines**. The **goal** is to gain **valuable insights into wine trends, pricing, geographical distribution**, and use it as the **foundation for an exciting wine recommender web app that combines data analysis with NLP(Natural Language Processing)-powered recommendations**
 
-This project serves as the foundation for a wine recommender web app that is currently under development. The backend, which includes the analysis conducted in this project, is complete. Additionally, the frontend, designed using HTML and CSS, has been developed. The ongoing work involves integrating the backend with the frontend to create a seamless user experience for wine enthusiasts looking for personalized wine recommendations based on NLP(Natural Language Processing)-powered algorithms.
+This project serves as the foundation for a **wine recommender web app** that is **currently under development**. The **backend**, which includes the analysis conducted in this project, is complete. Additionally, the **frontend**, designed using **HTML and CSS**, **has been developed**. The **ongoing work** involves **integrating** the backend with the frontend to create a seamless user experience for wine enthusiasts looking for **personalized wine recommendations based on NLP(Natural Language Processing)-powered algorithms**.
 
-The project aims to provide not only valuable insights into wine data but also a practical application that will enhance the wine tasting and selection process for users.
+The project aims to provide not only **valuable insights** into wine data but also a practical application that will enhance the **wine tasting and selection** process for users.
 
 ## Project Objectives
 
@@ -51,11 +51,11 @@ The project aims to provide not only valuable insights into wine data but also a
 
 ## Conclusion
 
-This wine reviews analysis project provides valuable insights into the world of wine, including pricing trends, geographical distribution, and specific analysis of Italian wines. The combination of data cleaning, exploratory analysis, geospatial visualization, and targeted investigations allows for a comprehensive understanding of the dataset. By automating the data export and email notification process, the project demonstrates practical applications for data analysis and reporting.
-This wine reviews analysis project, which serves as the foundation for an exciting wine recommender app that combines data analysis with NLP-powered recommendations
+This **wine reviews analysis** project provides valuable **insights** into the world of wine, including **pricing trends, geographical distribution, and specific analysis of Italian wines**. The combination of **data cleaning, exploratory analysis, geospatial visualization, and targeted investigations** allows for a comprehensive understanding of the dataset. By **automating** the data export and email notification process, the project demonstrates practical applications for **data analysis and reporting**.
+This **wine reviews analysis** project, which serves as the **foundation for an exciting wine recommender app that combines data analysis with NLP-powered recommendations**.
 
 For detailed code and results, please refer to the project's Jupyter Notebook and CSV files in the dedicated project folder.
 
-For any questions or further information, please feel free to contact me.
+For any questions or further information, please **feel free to contact me**.
 
-Thank you for exploring this wine reviews analysis project!
+**Thank you for exploring this wine reviews analysis project!**
