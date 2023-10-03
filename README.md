@@ -4,10 +4,9 @@
 ## Check the code by clicking on the link below:
 - ['Wine Reviews Analysis' Project](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Wine%20Review%20Analysis.ipynb)
 
-## Additionally, I am still working on the integration process. However, you can still view the Web App homepage screenshots by clicking on the links below:
+## Additionally, I am still working on the integration process. However, you can still view the Web App homepage GIF below:
 
-- ['The Italian Wine Recommender' Homepage: Page 1](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender.png): Web App Home page.
-- ['The Italian Wine Recommender' Homepage: Page 2](https://github.com/Kanvas33/Python-Wine-Reviews-Analysis/blob/main/Frontend_Recommender_2.png): Web App Home page.
+!['The Italian Wine Recommender' Web App Homepage GIF](https://github.com/Kanvas33/Italian-Wine-Recommender/blob/main/(GIF)The%20Italian%20Wine%20Recommender.gif)
 
 ## Project Overview
 
