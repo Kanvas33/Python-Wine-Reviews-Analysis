@@ -65,8 +65,6 @@ The project aims to provide not only **valuable insights** into wine data but al
 This **wine reviews analysis** project provides valuable **insights** into the world of wine, including **pricing trends, geographical distribution, and specific analysis of Italian wines**. The combination of **data cleaning, exploratory analysis, geospatial visualization, and targeted investigations** allows for a comprehensive understanding of the dataset. By **automating** the **data export and email notification process**, the project demonstrates practical applications for **data analysis and reporting**.
 This **wine reviews analysis** project, which serves as the **foundation for an exciting italian wine recommender app that combines data analysis with NLP(Natural Language Processing)-powered recommendations**.
 
-For detailed code and results, please refer to the project's Jupyter Notebook and CSV files in the dedicated project folder.
-
 #### For any questions or further information, please feel free to contact me here or at jeff.farias@gmail.com.
 
 **Thank you for exploring this wine reviews analysis project!**
