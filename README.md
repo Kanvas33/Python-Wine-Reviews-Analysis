@@ -67,6 +67,6 @@ This **wine reviews analysis** project, which serves as the **foundation for an 
 
 For detailed code and results, please refer to the project's Jupyter Notebook and CSV files in the dedicated project folder.
 
-For any questions or further information, please **feel free to contact me here or at** jeff.farias@gmail.com.
+#### For any questions or further information, please feel free to contact me here or at jeff.farias@gmail.com.
 
 **Thank you for exploring this wine reviews analysis project!**
